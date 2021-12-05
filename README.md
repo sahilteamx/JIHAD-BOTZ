@@ -1,3 +1,8 @@
+<div align="center">
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Sahil+WA+Bot+repo;Created+by+Sahil;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+
+
 # 
 WhatsApp Button BOT
 
