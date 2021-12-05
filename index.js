@@ -195,13 +195,13 @@ const XteamKey = '0e06bdc27bafafe1' // APIKEY XTEAM BELI SENDIRI:V
 const TobzKey = 'Bidmzz1sJ2L1TKyqaMEU' // PUNYA NASWARI TEAM
 const ApiDevolover = 'PunyaIkyAds'
 const TechApi = '5BNIDH-1T0kPj-gWqG6q-sHtuHA-AWBSgZ'
-const zeksapi = '${myApi}'
+const zeksapi = '${b546dcee3e01560f1c841fa6f342f90c}'
 const shizukaapi = 'itsmeiky633'
 pkode = 'APIKEY'
 myApi = 'MechaKey'
 const apivhtear = 'niehbelidiikyads' // YANG DI YOUTUBE
 const lolhuman = '682aeab645ed61cf137cf971'
-const api = 'MyKey'
+const api = 'b546dcee3e01560f1c841fa6f342f90c'
 /*
 ]=====> SC BY RURIBOTZ <=====[
 */
